@@ -1,0 +1,1100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D7C3CC-0F2B-4169-B253-AC3F68D17AE3}|CustomerService\\CustomerService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\customerservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D4D7C3CC-0F2B-4169-B253-AC3F68D17AE3}|CustomerService\\CustomerService.csproj|solutionrelative:customerservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EB8A77-585B-4F72-95BB-6698AF9E0E15}|AccountService\\AccountService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\accountservice\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EB8A77-585B-4F72-95BB-6698AF9E0E15}|AccountService\\AccountService.csproj|solutionrelative:accountservice\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D7C3CC-0F2B-4169-B253-AC3F68D17AE3}|CustomerService\\CustomerService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\customerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D7C3CC-0F2B-4169-B253-AC3F68D17AE3}|CustomerService\\CustomerService.csproj|solutionrelative:customerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EB8A77-585B-4F72-95BB-6698AF9E0E15}|AccountService\\AccountService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\accountservice\\dto\\requestmoneydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EB8A77-585B-4F72-95BB-6698AF9E0E15}|AccountService\\AccountService.csproj|solutionrelative:accountservice\\dto\\requestmoneydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EB8A77-585B-4F72-95BB-6698AF9E0E15}|AccountService\\AccountService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\accountservice\\dto\\moneyrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EB8A77-585B-4F72-95BB-6698AF9E0E15}|AccountService\\AccountService.csproj|solutionrelative:accountservice\\dto\\moneyrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EB8A77-585B-4F72-95BB-6698AF9E0E15}|AccountService\\AccountService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\accountservice\\repositories\\moneyrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EB8A77-585B-4F72-95BB-6698AF9E0E15}|AccountService\\AccountService.csproj|solutionrelative:accountservice\\repositories\\moneyrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EB8A77-585B-4F72-95BB-6698AF9E0E15}|AccountService\\AccountService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\accountservice\\models\\moneyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EB8A77-585B-4F72-95BB-6698AF9E0E15}|AccountService\\AccountService.csproj|solutionrelative:accountservice\\models\\moneyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EB8A77-585B-4F72-95BB-6698AF9E0E15}|AccountService\\AccountService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\accountservice\\repositories\\imoneyrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EB8A77-585B-4F72-95BB-6698AF9E0E15}|AccountService\\AccountService.csproj|solutionrelative:accountservice\\repositories\\imoneyrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EB8A77-585B-4F72-95BB-6698AF9E0E15}|AccountService\\AccountService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\accountservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EB8A77-585B-4F72-95BB-6698AF9E0E15}|AccountService\\AccountService.csproj|solutionrelative:accountservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EB8A77-585B-4F72-95BB-6698AF9E0E15}|AccountService\\AccountService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\accountservice\\models\\accountbankcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EB8A77-585B-4F72-95BB-6698AF9E0E15}|AccountService\\AccountService.csproj|solutionrelative:accountservice\\models\\accountbankcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EB8A77-585B-4F72-95BB-6698AF9E0E15}|AccountService\\AccountService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\accountservice\\repositories\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EB8A77-585B-4F72-95BB-6698AF9E0E15}|AccountService\\AccountService.csproj|solutionrelative:accountservice\\repositories\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EB8A77-585B-4F72-95BB-6698AF9E0E15}|AccountService\\AccountService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\accountservice\\repositories\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EB8A77-585B-4F72-95BB-6698AF9E0E15}|AccountService\\AccountService.csproj|solutionrelative:accountservice\\repositories\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EB8A77-585B-4F72-95BB-6698AF9E0E15}|AccountService\\AccountService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\accountservice\\dto\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EB8A77-585B-4F72-95BB-6698AF9E0E15}|AccountService\\AccountService.csproj|solutionrelative:accountservice\\dto\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EB8A77-585B-4F72-95BB-6698AF9E0E15}|AccountService\\AccountService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\accountservice\\dto\\transactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EB8A77-585B-4F72-95BB-6698AF9E0E15}|AccountService\\AccountService.csproj|solutionrelative:accountservice\\dto\\transactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D7C3CC-0F2B-4169-B253-AC3F68D17AE3}|CustomerService\\CustomerService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\customerservice\\repositories\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D7C3CC-0F2B-4169-B253-AC3F68D17AE3}|CustomerService\\CustomerService.csproj|solutionrelative:customerservice\\repositories\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D7C3CC-0F2B-4169-B253-AC3F68D17AE3}|CustomerService\\CustomerService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\customerservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D7C3CC-0F2B-4169-B253-AC3F68D17AE3}|CustomerService\\CustomerService.csproj|solutionrelative:customerservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07324C9E-2084-4574-B306-C2095E1B7103}|AttachmentService\\AttachmentService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\attachmentservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07324C9E-2084-4574-B306-C2095E1B7103}|AttachmentService\\AttachmentService.csproj|solutionrelative:attachmentservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0416189F-A6C2-42A6-A328-D27D06F9B77F}|AddressService\\AddressService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\addressservice\\dto\\addresspdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0416189F-A6C2-42A6-A328-D27D06F9B77F}|AddressService\\AddressService.csproj|solutionrelative:addressservice\\dto\\addresspdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0416189F-A6C2-42A6-A328-D27D06F9B77F}|AddressService\\AddressService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\addressservice\\dto\\addressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0416189F-A6C2-42A6-A328-D27D06F9B77F}|AddressService\\AddressService.csproj|solutionrelative:addressservice\\dto\\addressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0416189F-A6C2-42A6-A328-D27D06F9B77F}|AddressService\\AddressService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\addressservice\\controllers\\addressescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0416189F-A6C2-42A6-A328-D27D06F9B77F}|AddressService\\AddressService.csproj|solutionrelative:addressservice\\controllers\\addressescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D7C3CC-0F2B-4169-B253-AC3F68D17AE3}|CustomerService\\CustomerService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\customerservice\\dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D7C3CC-0F2B-4169-B253-AC3F68D17AE3}|CustomerService\\CustomerService.csproj|solutionrelative:customerservice\\dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D7C3CC-0F2B-4169-B253-AC3F68D17AE3}|CustomerService\\CustomerService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\customerservice\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D7C3CC-0F2B-4169-B253-AC3F68D17AE3}|CustomerService\\CustomerService.csproj|solutionrelative:customerservice\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EB8A77-585B-4F72-95BB-6698AF9E0E15}|AccountService\\AccountService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\accountservice\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EB8A77-585B-4F72-95BB-6698AF9E0E15}|AccountService\\AccountService.csproj|solutionrelative:accountservice\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EB8A77-585B-4F72-95BB-6698AF9E0E15}|AccountService\\AccountService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\accountservice\\dto\\accountsummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EB8A77-585B-4F72-95BB-6698AF9E0E15}|AccountService\\AccountService.csproj|solutionrelative:accountservice\\dto\\accountsummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0416189F-A6C2-42A6-A328-D27D06F9B77F}|AddressService\\AddressService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\addressservice\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0416189F-A6C2-42A6-A328-D27D06F9B77F}|AddressService\\AddressService.csproj|solutionrelative:addressservice\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D7C3CC-0F2B-4169-B253-AC3F68D17AE3}|CustomerService\\CustomerService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\customerservice\\dto\\otprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D7C3CC-0F2B-4169-B253-AC3F68D17AE3}|CustomerService\\CustomerService.csproj|solutionrelative:customerservice\\dto\\otprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D7C3CC-0F2B-4169-B253-AC3F68D17AE3}|CustomerService\\CustomerService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\customerservice\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D7C3CC-0F2B-4169-B253-AC3F68D17AE3}|CustomerService\\CustomerService.csproj|solutionrelative:customerservice\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AccountService\\Migrations\\20241001065340_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AccountService\\Migrations\\20241001065340_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AccountService\\Migrations\\20241001060406_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AccountService\\Migrations\\20241001060406_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D7C3CC-0F2B-4169-B253-AC3F68D17AE3}|CustomerService\\CustomerService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\customerservice\\dto\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D7C3CC-0F2B-4169-B253-AC3F68D17AE3}|CustomerService\\CustomerService.csproj|solutionrelative:customerservice\\dto\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D7C3CC-0F2B-4169-B253-AC3F68D17AE3}|CustomerService\\CustomerService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\customerservice\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D7C3CC-0F2B-4169-B253-AC3F68D17AE3}|CustomerService\\CustomerService.csproj|solutionrelative:customerservice\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D7C3CC-0F2B-4169-B253-AC3F68D17AE3}|CustomerService\\CustomerService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\customerservice\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D7C3CC-0F2B-4169-B253-AC3F68D17AE3}|CustomerService\\CustomerService.csproj|solutionrelative:customerservice\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D7C3CC-0F2B-4169-B253-AC3F68D17AE3}|CustomerService\\CustomerService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\customerservice\\repositories\\customerrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D7C3CC-0F2B-4169-B253-AC3F68D17AE3}|CustomerService\\CustomerService.csproj|solutionrelative:customerservice\\repositories\\customerrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EB8A77-585B-4F72-95BB-6698AF9E0E15}|AccountService\\AccountService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\accountservice\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EB8A77-585B-4F72-95BB-6698AF9E0E15}|AccountService\\AccountService.csproj|solutionrelative:accountservice\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EB8A77-585B-4F72-95BB-6698AF9E0E15}|AccountService\\AccountService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\accountservice\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EB8A77-585B-4F72-95BB-6698AF9E0E15}|AccountService\\AccountService.csproj|solutionrelative:accountservice\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EB8A77-585B-4F72-95BB-6698AF9E0E15}|AccountService\\AccountService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\accountservice\\repositories\\accountrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EB8A77-585B-4F72-95BB-6698AF9E0E15}|AccountService\\AccountService.csproj|solutionrelative:accountservice\\repositories\\accountrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EB8A77-585B-4F72-95BB-6698AF9E0E15}|AccountService\\AccountService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\accountservice\\repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EB8A77-585B-4F72-95BB-6698AF9E0E15}|AccountService\\AccountService.csproj|solutionrelative:accountservice\\repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EB8A77-585B-4F72-95BB-6698AF9E0E15}|AccountService\\AccountService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\accountservice\\dto\\transferdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EB8A77-585B-4F72-95BB-6698AF9E0E15}|AccountService\\AccountService.csproj|solutionrelative:accountservice\\dto\\transferdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EB8A77-585B-4F72-95BB-6698AF9E0E15}|AccountService\\AccountService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\accountservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C7EB8A77-585B-4F72-95BB-6698AF9E0E15}|AccountService\\AccountService.csproj|solutionrelative:accountservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07324C9E-2084-4574-B306-C2095E1B7103}|AttachmentService\\AttachmentService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\attachmentservice\\dto\\attachmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07324C9E-2084-4574-B306-C2095E1B7103}|AttachmentService\\AttachmentService.csproj|solutionrelative:attachmentservice\\dto\\attachmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07324C9E-2084-4574-B306-C2095E1B7103}|AttachmentService\\AttachmentService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\attachmentservice\\attachmentservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{07324C9E-2084-4574-B306-C2095E1B7103}|AttachmentService\\AttachmentService.csproj|solutionrelative:attachmentservice\\attachmentservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D7C3CC-0F2B-4169-B253-AC3F68D17AE3}|CustomerService\\CustomerService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\customerservice\\repositories\\smsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D7C3CC-0F2B-4169-B253-AC3F68D17AE3}|CustomerService\\CustomerService.csproj|solutionrelative:customerservice\\repositories\\smsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D7C3CC-0F2B-4169-B253-AC3F68D17AE3}|CustomerService\\CustomerService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\customerservice\\dto\\otpverificationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D7C3CC-0F2B-4169-B253-AC3F68D17AE3}|CustomerService\\CustomerService.csproj|solutionrelative:customerservice\\dto\\otpverificationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D7C3CC-0F2B-4169-B253-AC3F68D17AE3}|CustomerService\\CustomerService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\customerservice\\repositories\\otpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D7C3CC-0F2B-4169-B253-AC3F68D17AE3}|CustomerService\\CustomerService.csproj|solutionrelative:customerservice\\repositories\\otpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D7C3CC-0F2B-4169-B253-AC3F68D17AE3}|CustomerService\\CustomerService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\customerservice\\dto\\resetpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D7C3CC-0F2B-4169-B253-AC3F68D17AE3}|CustomerService\\CustomerService.csproj|solutionrelative:customerservice\\dto\\resetpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D7C3CC-0F2B-4169-B253-AC3F68D17AE3}|CustomerService\\CustomerService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\customerservice\\customerservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D4D7C3CC-0F2B-4169-B253-AC3F68D17AE3}|CustomerService\\CustomerService.csproj|solutionrelative:customerservice\\customerservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D7C3CC-0F2B-4169-B253-AC3F68D17AE3}|CustomerService\\CustomerService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\customerservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D4D7C3CC-0F2B-4169-B253-AC3F68D17AE3}|CustomerService\\CustomerService.csproj|solutionrelative:customerservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D7C3CC-0F2B-4169-B253-AC3F68D17AE3}|CustomerService\\CustomerService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\customerservice\\repositories\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D7C3CC-0F2B-4169-B253-AC3F68D17AE3}|CustomerService\\CustomerService.csproj|solutionrelative:customerservice\\repositories\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D7C3CC-0F2B-4169-B253-AC3F68D17AE3}|CustomerService\\CustomerService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\customerservice\\customerservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D4D7C3CC-0F2B-4169-B253-AC3F68D17AE3}|CustomerService\\CustomerService.csproj|solutionrelative:customerservice\\customerservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0416189F-A6C2-42A6-A328-D27D06F9B77F}|AddressService\\AddressService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\addressservice\\repositories\\iaddressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0416189F-A6C2-42A6-A328-D27D06F9B77F}|AddressService\\AddressService.csproj|solutionrelative:addressservice\\repositories\\iaddressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D7C3CC-0F2B-4169-B253-AC3F68D17AE3}|CustomerService\\CustomerService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\customerservice\\dto\\resetpasswordrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D7C3CC-0F2B-4169-B253-AC3F68D17AE3}|CustomerService\\CustomerService.csproj|solutionrelative:customerservice\\dto\\resetpasswordrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0416189F-A6C2-42A6-A328-D27D06F9B77F}|AddressService\\AddressService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\addressservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0416189F-A6C2-42A6-A328-D27D06F9B77F}|AddressService\\AddressService.csproj|solutionrelative:addressservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07324C9E-2084-4574-B306-C2095E1B7103}|AttachmentService\\AttachmentService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\attachmentservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{07324C9E-2084-4574-B306-C2095E1B7103}|AttachmentService\\AttachmentService.csproj|solutionrelative:attachmentservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07324C9E-2084-4574-B306-C2095E1B7103}|AttachmentService\\AttachmentService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\attachmentservice\\controllers\\attachmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07324C9E-2084-4574-B306-C2095E1B7103}|AttachmentService\\AttachmentService.csproj|solutionrelative:attachmentservice\\controllers\\attachmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0416189F-A6C2-42A6-A328-D27D06F9B77F}|AddressService\\AddressService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\addressservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0416189F-A6C2-42A6-A328-D27D06F9B77F}|AddressService\\AddressService.csproj|solutionrelative:addressservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{253290A2-5306-4605-9B08-5FD5F71DD4DC}|BankBackend\\BankBackend.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\bankbackend\\bankbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{253290A2-5306-4605-9B08-5FD5F71DD4DC}|BankBackend\\BankBackend.csproj|solutionrelative:bankbackend\\bankbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07324C9E-2084-4574-B306-C2095E1B7103}|AttachmentService\\AttachmentService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\attachmentservice\\repositories\\attachmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07324C9E-2084-4574-B306-C2095E1B7103}|AttachmentService\\AttachmentService.csproj|solutionrelative:attachmentservice\\repositories\\attachmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0416189F-A6C2-42A6-A328-D27D06F9B77F}|AddressService\\AddressService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\addressservice\\repositories\\addressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0416189F-A6C2-42A6-A328-D27D06F9B77F}|AddressService\\AddressService.csproj|solutionrelative:addressservice\\repositories\\addressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07324C9E-2084-4574-B306-C2095E1B7103}|AttachmentService\\AttachmentService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\attachmentservice\\models\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07324C9E-2084-4574-B306-C2095E1B7103}|AttachmentService\\AttachmentService.csproj|solutionrelative:attachmentservice\\models\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07324C9E-2084-4574-B306-C2095E1B7103}|AttachmentService\\AttachmentService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\attachmentservice\\repositories\\attachmentrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07324C9E-2084-4574-B306-C2095E1B7103}|AttachmentService\\AttachmentService.csproj|solutionrelative:attachmentservice\\repositories\\attachmentrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07324C9E-2084-4574-B306-C2095E1B7103}|AttachmentService\\AttachmentService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\attachmentservice\\repositories\\iattachmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07324C9E-2084-4574-B306-C2095E1B7103}|AttachmentService\\AttachmentService.csproj|solutionrelative:attachmentservice\\repositories\\iattachmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0416189F-A6C2-42A6-A328-D27D06F9B77F}|AddressService\\AddressService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\addressservice\\repositories\\addressrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0416189F-A6C2-42A6-A328-D27D06F9B77F}|AddressService\\AddressService.csproj|solutionrelative:addressservice\\repositories\\addressrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07324C9E-2084-4574-B306-C2095E1B7103}|AttachmentService\\AttachmentService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\attachmentservice\\models\\attachmentbankcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07324C9E-2084-4574-B306-C2095E1B7103}|AttachmentService\\AttachmentService.csproj|solutionrelative:attachmentservice\\models\\attachmentbankcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0416189F-A6C2-42A6-A328-D27D06F9B77F}|AddressService\\AddressService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\addressservice\\addressservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0416189F-A6C2-42A6-A328-D27D06F9B77F}|AddressService\\AddressService.csproj|solutionrelative:addressservice\\addressservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0416189F-A6C2-42A6-A328-D27D06F9B77F}|AddressService\\AddressService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\addressservice\\models\\addressbankcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0416189F-A6C2-42A6-A328-D27D06F9B77F}|AddressService\\AddressService.csproj|solutionrelative:addressservice\\models\\addressbankcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D7C3CC-0F2B-4169-B253-AC3F68D17AE3}|CustomerService\\CustomerService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\customerservice\\models\\customerbankcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D7C3CC-0F2B-4169-B253-AC3F68D17AE3}|CustomerService\\CustomerService.csproj|solutionrelative:customerservice\\models\\customerbankcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EB8A77-585B-4F72-95BB-6698AF9E0E15}|AccountService\\AccountService.csproj|c:\\users\\adbhavsa\\source\\repos\\bankbackend\\accountservice\\migrations\\20241009093054_createmoneyrequesttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EB8A77-585B-4F72-95BB-6698AF9E0E15}|AccountService\\AccountService.csproj|solutionrelative:accountservice\\migrations\\20241009093054_createmoneyrequesttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AccountService\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "AccountService\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AccountService\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "AccountService\\Controllers\\AccountsController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:27:33.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IMoneyRequestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AccountService\\Repositories\\IMoneyRequestRepository.cs",
+              "RelativeDocumentMoniker": "AccountService\\Repositories\\IMoneyRequestRepository.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AccountService\\Repositories\\IMoneyRequestRepository.cs",
+              "RelativeToolTip": "AccountService\\Repositories\\IMoneyRequestRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwAsAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T09:28:21.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MoneyRequestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AccountService\\Repositories\\MoneyRequestRepository.cs",
+              "RelativeDocumentMoniker": "AccountService\\Repositories\\MoneyRequestRepository.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AccountService\\Repositories\\MoneyRequestRepository.cs",
+              "RelativeToolTip": "AccountService\\Repositories\\MoneyRequestRepository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAuwCoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T09:28:48.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\CustomerService\\Program.cs",
+              "RelativeDocumentMoniker": "CustomerService\\Program.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\CustomerService\\Program.cs",
+              "RelativeToolTip": "CustomerService\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T10:14:24.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\CustomerService\\appsettings.json",
+              "RelativeDocumentMoniker": "CustomerService\\appsettings.json",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\CustomerService\\appsettings.json",
+              "RelativeToolTip": "CustomerService\\appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-21T10:10:53.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MoneyRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AccountService\\Dto\\MoneyRequestDto.cs",
+              "RelativeDocumentMoniker": "AccountService\\Dto\\MoneyRequestDto.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AccountService\\Dto\\MoneyRequestDto.cs",
+              "RelativeToolTip": "AccountService\\Dto\\MoneyRequestDto.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T06:04:45.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RequestMoneyDto.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AccountService\\Dto\\RequestMoneyDto.cs",
+              "RelativeDocumentMoniker": "AccountService\\Dto\\RequestMoneyDto.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AccountService\\Dto\\RequestMoneyDto.cs",
+              "RelativeToolTip": "AccountService\\Dto\\RequestMoneyDto.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAcwAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:09:15.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MoneyRequest.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AccountService\\Models\\MoneyRequest.cs",
+              "RelativeDocumentMoniker": "AccountService\\Models\\MoneyRequest.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AccountService\\Models\\MoneyRequest.cs",
+              "RelativeToolTip": "AccountService\\Models\\MoneyRequest.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA8wAgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T09:26:27.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AccountService\\Program.cs",
+              "RelativeDocumentMoniker": "AccountService\\Program.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AccountService\\Program.cs",
+              "RelativeToolTip": "AccountService\\Program.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAIwEYAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:15:22.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "20241009093054_CreateMoneyRequestTable.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AccountService\\Migrations\\20241009093054_CreateMoneyRequestTable.cs",
+              "RelativeDocumentMoniker": "AccountService\\Migrations\\20241009093054_CreateMoneyRequestTable.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AccountService\\Migrations\\20241009093054_CreateMoneyRequestTable.cs",
+              "RelativeToolTip": "AccountService\\Migrations\\20241009093054_CreateMoneyRequestTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T09:30:54.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\CustomerService\\Repositories\\AuthService.cs",
+              "RelativeDocumentMoniker": "CustomerService\\Repositories\\AuthService.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\CustomerService\\Repositories\\AuthService.cs",
+              "RelativeToolTip": "CustomerService\\Repositories\\AuthService.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAAAF0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T12:19:31.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ITransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AccountService\\Repositories\\ITransactionRepository.cs",
+              "RelativeDocumentMoniker": "AccountService\\Repositories\\ITransactionRepository.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AccountService\\Repositories\\ITransactionRepository.cs",
+              "RelativeToolTip": "AccountService\\Repositories\\ITransactionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T08:20:22.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountBankContext.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AccountService\\Models\\AccountBankContext.cs",
+              "RelativeDocumentMoniker": "AccountService\\Models\\AccountBankContext.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AccountService\\Models\\AccountBankContext.cs",
+              "RelativeToolTip": "AccountService\\Models\\AccountBankContext.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAIwFIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:20:05.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AccountService\\Repositories\\TransactionRepository.cs",
+              "RelativeDocumentMoniker": "AccountService\\Repositories\\TransactionRepository.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AccountService\\Repositories\\TransactionRepository.cs",
+              "RelativeToolTip": "AccountService\\Repositories\\TransactionRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAowCYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T08:21:02.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccountDto.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AccountService\\Dto\\AccountDto.cs",
+              "RelativeDocumentMoniker": "AccountService\\Dto\\AccountDto.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AccountService\\Dto\\AccountDto.cs",
+              "RelativeToolTip": "AccountService\\Dto\\AccountDto.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:26:56.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TransactionDto.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AccountService\\Dto\\TransactionDto.cs",
+              "RelativeDocumentMoniker": "AccountService\\Dto\\TransactionDto.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AccountService\\Dto\\TransactionDto.cs",
+              "RelativeToolTip": "AccountService\\Dto\\TransactionDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:06:57.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\CustomerService\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CustomerService\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\CustomerService\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CustomerService\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAcwBcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T12:05:16.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AttachmentService\\Program.cs",
+              "RelativeDocumentMoniker": "AttachmentService\\Program.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AttachmentService\\Program.cs",
+              "RelativeToolTip": "AttachmentService\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAlwIMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T10:28:06.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AccountSummaryDto.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AccountService\\Dto\\AccountSummaryDto.cs",
+              "RelativeDocumentMoniker": "AccountService\\Dto\\AccountSummaryDto.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AccountService\\Dto\\AccountSummaryDto.cs",
+              "RelativeToolTip": "AccountService\\Dto\\AccountSummaryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:26:32.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddressPDto.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AddressService\\Dto\\AddressPDto.cs",
+              "RelativeDocumentMoniker": "AddressService\\Dto\\AddressPDto.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AddressService\\Dto\\AddressPDto.cs",
+              "RelativeToolTip": "AddressService\\Dto\\AddressPDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAmwAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T05:51:18.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddressDto.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AddressService\\Dto\\AddressDto.cs",
+              "RelativeDocumentMoniker": "AddressService\\Dto\\AddressDto.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AddressService\\Dto\\AddressDto.cs",
+              "RelativeToolTip": "AddressService\\Dto\\AddressDto.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAIwBYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T15:05:31.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CustomerDto.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\CustomerService\\Dto\\CustomerDto.cs",
+              "RelativeDocumentMoniker": "CustomerService\\Dto\\CustomerDto.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\CustomerService\\Dto\\CustomerDto.cs",
+              "RelativeToolTip": "CustomerService\\Dto\\CustomerDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T05:45:35.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\CustomerService\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "CustomerService\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\CustomerService\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "CustomerService\\Controllers\\CustomersController.cs",
+              "ViewState": "AQIAAB0BAAAAAAAAAAAAACwBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T14:09:35.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AccountService\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "AccountService\\Models\\Account.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AccountService\\Models\\Account.cs",
+              "RelativeToolTip": "AccountService\\Models\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:20:23.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddressesController.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AddressService\\Controllers\\AddressesController.cs",
+              "RelativeDocumentMoniker": "AddressService\\Controllers\\AddressesController.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AddressService\\Controllers\\AddressesController.cs",
+              "RelativeToolTip": "AddressService\\Controllers\\AddressesController.cs",
+              "ViewState": "AQIAAM8AAAAAAAAAAAAAAN8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T15:01:01.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AddressService\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "AddressService\\Models\\Address.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AddressService\\Models\\Address.cs",
+              "RelativeToolTip": "AddressService\\Models\\Address.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwBYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T14:33:44.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OtpRequest.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\CustomerService\\Dto\\OtpRequest.cs",
+              "RelativeDocumentMoniker": "CustomerService\\Dto\\OtpRequest.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\CustomerService\\Dto\\OtpRequest.cs",
+              "RelativeToolTip": "CustomerService\\Dto\\OtpRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T11:12:27.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\CustomerService\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "CustomerService\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\CustomerService\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "CustomerService\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAswDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T14:01:34.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ForgotPasswordDto.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\CustomerService\\Dto\\ForgotPasswordDto.cs",
+              "RelativeDocumentMoniker": "CustomerService\\Dto\\ForgotPasswordDto.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\CustomerService\\Dto\\ForgotPasswordDto.cs",
+              "RelativeToolTip": "CustomerService\\Dto\\ForgotPasswordDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T09:20:17.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\CustomerService\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "CustomerService\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\CustomerService\\Models\\Customer.cs",
+              "RelativeToolTip": "CustomerService\\Models\\Customer.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAYwBkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T10:15:38.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\CustomerService\\Repositories\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "CustomerService\\Repositories\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\CustomerService\\Repositories\\ICustomerRepository.cs",
+              "RelativeToolTip": "CustomerService\\Repositories\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAD4vwsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T13:57:40.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CustomerRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\CustomerService\\Repositories\\CustomerRepositoryBase.cs",
+              "RelativeDocumentMoniker": "CustomerService\\Repositories\\CustomerRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\CustomerService\\Repositories\\CustomerRepositoryBase.cs",
+              "RelativeToolTip": "CustomerService\\Repositories\\CustomerRepositoryBase.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwBEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T13:58:27.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AccountService\\Repositories\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "AccountService\\Repositories\\AccountRepository.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AccountService\\Repositories\\AccountRepository.cs",
+              "RelativeToolTip": "AccountService\\Repositories\\AccountRepository.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwCgAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:23:49.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AccountService\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "AccountService\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AccountService\\Models\\Transaction.cs",
+              "RelativeToolTip": "AccountService\\Models\\Transaction.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAQwBEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T08:19:53.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AccountRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AccountService\\Repositories\\AccountRepositoryBase.cs",
+              "RelativeDocumentMoniker": "AccountService\\Repositories\\AccountRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AccountService\\Repositories\\AccountRepositoryBase.cs",
+              "RelativeToolTip": "AccountService\\Repositories\\AccountRepositoryBase.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:23:08.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AccountService\\Repositories\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "AccountService\\Repositories\\IAccountRepository.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AccountService\\Repositories\\IAccountRepository.cs",
+              "RelativeToolTip": "AccountService\\Repositories\\IAccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:22:43.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "TransferDto.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AccountService\\Dto\\TransferDto.cs",
+              "RelativeDocumentMoniker": "AccountService\\Dto\\TransferDto.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AccountService\\Dto\\TransferDto.cs",
+              "RelativeToolTip": "AccountService\\Dto\\TransferDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:26:06.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AccountService\\appsettings.json",
+              "RelativeDocumentMoniker": "AccountService\\appsettings.json",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AccountService\\appsettings.json",
+              "RelativeToolTip": "AccountService\\appsettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-01T07:15:34.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AttachmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AttachmentService\\Dto\\AttachmentDto.cs",
+              "RelativeDocumentMoniker": "AttachmentService\\Dto\\AttachmentDto.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AttachmentService\\Dto\\AttachmentDto.cs",
+              "RelativeToolTip": "AttachmentService\\Dto\\AttachmentDto.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAwAsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T10:40:34.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20241001065340_account.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AccountService\\Migrations\\20241001065340_account.cs",
+              "RelativeDocumentMoniker": "AccountService\\Migrations\\20241001065340_account.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AccountService\\Migrations\\20241001065340_account.cs",
+              "RelativeToolTip": "AccountService\\Migrations\\20241001065340_account.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T06:53:40.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20241001060406_account.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AccountService\\Migrations\\20241001060406_account.cs",
+              "RelativeDocumentMoniker": "AccountService\\Migrations\\20241001060406_account.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AccountService\\Migrations\\20241001060406_account.cs",
+              "RelativeToolTip": "AccountService\\Migrations\\20241001060406_account.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T06:04:06.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AttachmentService.csproj",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AttachmentService\\AttachmentService.csproj",
+              "RelativeDocumentMoniker": "AttachmentService\\AttachmentService.csproj",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AttachmentService\\AttachmentService.csproj",
+              "RelativeToolTip": "AttachmentService\\AttachmentService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-22T10:05:44.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "SmsService.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\CustomerService\\Repositories\\SmsService.cs",
+              "RelativeDocumentMoniker": "CustomerService\\Repositories\\SmsService.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\CustomerService\\Repositories\\SmsService.cs",
+              "RelativeToolTip": "CustomerService\\Repositories\\SmsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T11:49:45.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "OtpVerificationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\CustomerService\\Dto\\OtpVerificationRequest.cs",
+              "RelativeDocumentMoniker": "CustomerService\\Dto\\OtpVerificationRequest.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\CustomerService\\Dto\\OtpVerificationRequest.cs",
+              "RelativeToolTip": "CustomerService\\Dto\\OtpVerificationRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T11:12:52.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "OtpService.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\CustomerService\\Repositories\\OtpService.cs",
+              "RelativeDocumentMoniker": "CustomerService\\Repositories\\OtpService.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\CustomerService\\Repositories\\OtpService.cs",
+              "RelativeToolTip": "CustomerService\\Repositories\\OtpService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAowAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T11:11:56.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ResetPasswordRequest.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\CustomerService\\Dto\\ResetPasswordRequest.cs",
+              "RelativeDocumentMoniker": "CustomerService\\Dto\\ResetPasswordRequest.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\CustomerService\\Dto\\ResetPasswordRequest.cs",
+              "RelativeToolTip": "CustomerService\\Dto\\ResetPasswordRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T11:14:10.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CustomerService.csproj",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\CustomerService\\CustomerService.csproj",
+              "RelativeDocumentMoniker": "CustomerService\\CustomerService.csproj",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\CustomerService\\CustomerService.csproj",
+              "RelativeToolTip": "CustomerService\\CustomerService.csproj",
+              "ViewState": "AQIAAAoAAAAAAAAAAABBwAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-21T09:16:58.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\CustomerService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CustomerService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\CustomerService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CustomerService\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAA4AAAAAAAAAAABRwBwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-30T07:42:43.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\CustomerService\\Repositories\\EmailService.cs",
+              "RelativeDocumentMoniker": "CustomerService\\Repositories\\EmailService.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\CustomerService\\Repositories\\EmailService.cs",
+              "RelativeToolTip": "CustomerService\\Repositories\\EmailService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBJwCAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T12:59:22.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CustomerService.http",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\CustomerService\\CustomerService.http",
+              "RelativeDocumentMoniker": "CustomerService\\CustomerService.http",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\CustomerService\\CustomerService.http",
+              "RelativeToolTip": "CustomerService\\CustomerService.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-30T07:08:24.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IAddressRepository.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AddressService\\Repositories\\IAddressRepository.cs",
+              "RelativeDocumentMoniker": "AddressService\\Repositories\\IAddressRepository.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AddressService\\Repositories\\IAddressRepository.cs",
+              "RelativeToolTip": "AddressService\\Repositories\\IAddressRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T14:39:11.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ResetPasswordRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\CustomerService\\Dto\\ResetPasswordRequestDto.cs",
+              "RelativeDocumentMoniker": "CustomerService\\Dto\\ResetPasswordRequestDto.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\CustomerService\\Dto\\ResetPasswordRequestDto.cs",
+              "RelativeToolTip": "CustomerService\\Dto\\ResetPasswordRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T06:15:51.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AddressService\\Program.cs",
+              "RelativeDocumentMoniker": "AddressService\\Program.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AddressService\\Program.cs",
+              "RelativeToolTip": "AddressService\\Program.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAQwEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T15:01:40.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AttachmentService\\appsettings.json",
+              "RelativeDocumentMoniker": "AttachmentService\\appsettings.json",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AttachmentService\\appsettings.json",
+              "RelativeToolTip": "AttachmentService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwBQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-22T10:20:06.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "AttachmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AttachmentService\\Controllers\\AttachmentsController.cs",
+              "RelativeDocumentMoniker": "AttachmentService\\Controllers\\AttachmentsController.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AttachmentService\\Controllers\\AttachmentsController.cs",
+              "RelativeToolTip": "AttachmentService\\Controllers\\AttachmentsController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAiwMgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T10:41:46.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AddressService\\appsettings.json",
+              "RelativeDocumentMoniker": "AddressService\\appsettings.json",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AddressService\\appsettings.json",
+              "RelativeToolTip": "AddressService\\appsettings.json",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAwwBAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-21T15:01:06.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "BankBackend.csproj",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\BankBackend\\BankBackend.csproj",
+              "RelativeDocumentMoniker": "BankBackend\\BankBackend.csproj",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\BankBackend\\BankBackend.csproj",
+              "RelativeToolTip": "BankBackend\\BankBackend.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-22T12:18:12.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "AttachmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AttachmentService\\Repositories\\AttachmentRepository.cs",
+              "RelativeDocumentMoniker": "AttachmentService\\Repositories\\AttachmentRepository.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AttachmentService\\Repositories\\AttachmentRepository.cs",
+              "RelativeToolTip": "AttachmentService\\Repositories\\AttachmentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T10:34:46.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "AddressRepository.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AddressService\\Repositories\\AddressRepository.cs",
+              "RelativeDocumentMoniker": "AddressService\\Repositories\\AddressRepository.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AddressService\\Repositories\\AddressRepository.cs",
+              "RelativeToolTip": "AddressService\\Repositories\\AddressRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAxwAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T14:44:27.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Attachment.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AttachmentService\\Models\\Attachment.cs",
+              "RelativeDocumentMoniker": "AttachmentService\\Models\\Attachment.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AttachmentService\\Models\\Attachment.cs",
+              "RelativeToolTip": "AttachmentService\\Models\\Attachment.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAgwBIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T10:23:06.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "AttachmentRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AttachmentService\\Repositories\\AttachmentRepositoryBase.cs",
+              "RelativeDocumentMoniker": "AttachmentService\\Repositories\\AttachmentRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AttachmentService\\Repositories\\AttachmentRepositoryBase.cs",
+              "RelativeToolTip": "AttachmentService\\Repositories\\AttachmentRepositoryBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T10:31:39.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "IAttachmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AttachmentService\\Repositories\\IAttachmentRepository.cs",
+              "RelativeDocumentMoniker": "AttachmentService\\Repositories\\IAttachmentRepository.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AttachmentService\\Repositories\\IAttachmentRepository.cs",
+              "RelativeToolTip": "AttachmentService\\Repositories\\IAttachmentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T10:30:27.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "AddressRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AddressService\\Repositories\\AddressRepositoryBase.cs",
+              "RelativeDocumentMoniker": "AddressService\\Repositories\\AddressRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AddressService\\Repositories\\AddressRepositoryBase.cs",
+              "RelativeToolTip": "AddressService\\Repositories\\AddressRepositoryBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAABRwAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T14:42:29.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "AttachmentBankContext.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AttachmentService\\Models\\AttachmentBankContext.cs",
+              "RelativeDocumentMoniker": "AttachmentService\\Models\\AttachmentBankContext.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AttachmentService\\Models\\AttachmentBankContext.cs",
+              "RelativeToolTip": "AttachmentService\\Models\\AttachmentBankContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T10:21:28.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "AddressService.csproj",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AddressService\\AddressService.csproj",
+              "RelativeDocumentMoniker": "AddressService\\AddressService.csproj",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AddressService\\AddressService.csproj",
+              "RelativeToolTip": "AddressService\\AddressService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-21T14:32:44.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "AddressBankContext.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AddressService\\Models\\AddressBankContext.cs",
+              "RelativeDocumentMoniker": "AddressService\\Models\\AddressBankContext.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AddressService\\Models\\AddressBankContext.cs",
+              "RelativeToolTip": "AddressService\\Models\\AddressBankContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T14:33:40.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "CustomerBankContext.cs",
+              "DocumentMoniker": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\CustomerService\\Models\\CustomerBankContext.cs",
+              "RelativeDocumentMoniker": "CustomerService\\Models\\CustomerBankContext.cs",
+              "ToolTip": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\CustomerService\\Models\\CustomerBankContext.cs",
+              "RelativeToolTip": "CustomerService\\Models\\CustomerBankContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T10:10:24.487Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

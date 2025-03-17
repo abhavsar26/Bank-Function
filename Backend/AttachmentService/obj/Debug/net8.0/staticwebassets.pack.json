@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AttachmentService\\wwwroot\\uploads\\Capgemini-Group_Conflict_of_Interest_Policy-2020-1.pdf",
+      "PackagePath": "staticwebassets\\uploads\\Capgemini-Group_Conflict_of_Interest_Policy-2020-1.pdf"
+    },
+    {
+      "Id": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AttachmentService\\wwwroot\\uploads\\Disbility_Certificate.pdf",
+      "PackagePath": "staticwebassets\\uploads\\Disbility_Certificate.pdf"
+    },
+    {
+      "Id": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AttachmentService\\wwwroot\\uploads\\EF Solo - FAQ 101 24.pdf",
+      "PackagePath": "staticwebassets\\uploads\\EF Solo - FAQ 101 24.pdf"
+    },
+    {
+      "Id": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AttachmentService\\wwwroot\\uploads\\Git.pdf",
+      "PackagePath": "staticwebassets\\uploads\\Git.pdf"
+    },
+    {
+      "Id": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AttachmentService\\wwwroot\\uploads\\IMG-20240508-WA0003.jpg",
+      "PackagePath": "staticwebassets\\uploads\\IMG-20240508-WA0003.jpg"
+    },
+    {
+      "Id": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AttachmentService\\wwwroot\\uploads\\IP_Policy_Design__Final_web.pdf",
+      "PackagePath": "staticwebassets\\uploads\\IP_Policy_Design__Final_web.pdf"
+    },
+    {
+      "Id": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\AttachmentService\\wwwroot\\uploads\\Unit Testing Framework (XUnit).pdf",
+      "PackagePath": "staticwebassets\\uploads\\Unit Testing Framework (XUnit).pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AttachmentService.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AttachmentService.props",
+      "PackagePath": "build\\AttachmentService.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AttachmentService.props",
+      "PackagePath": "buildMultiTargeting\\AttachmentService.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AttachmentService.props",
+      "PackagePath": "buildTransitive\\AttachmentService.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

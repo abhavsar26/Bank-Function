@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "ZOFUc7GaK5dwm16kEOjsZqhvjt+6oQOtv+rzjDDYtk4=",
+  "Source": "AddressService",
+  "BasePath": "_content/AddressService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\adbhavsa\\source\\repos\\BankBackend\\CustomerService\\CustomerService.csproj",
+      "Version": 2,
+      "Source": "CustomerService",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
